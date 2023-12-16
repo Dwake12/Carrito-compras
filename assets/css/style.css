@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,400&display=swap');
+
+*, html, body {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+body{
+    text-align: center !important;
+    background-color: #18202F;
+}
+
+h1 {
+    margin-top: 13px;
+    font-weight: lighter;
+}
+
+.btn{
+    background-color: #18202F;
+}
+
+.model{
+    color: black;
+}
+.price{
+    color: black;
+}
+
+
+
